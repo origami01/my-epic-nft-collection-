@@ -1,15 +1,9 @@
-# Basic Sample Hardhat Project
+Basic NFT Smart Contract Project Deployed On Solidity
+This project demonstrates a basic NFT Smart Contract Deployed on Solidity If you're a developer curious about NFTs, this is perfect. Programmatically generate your own NFT collection, write + deploy a smart contract in Solidity, This Project was Inspired by The Team at BuildSpace https://buildspace.so/ 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
 
-Try running some of the following tasks:
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+
+
+
+
